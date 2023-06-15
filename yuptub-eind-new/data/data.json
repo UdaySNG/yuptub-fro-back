@@ -1,0 +1,30 @@
+{
+  "videos": [
+    {
+      "id": 0,
+      "video": "../videos/football2.mp4",
+      "link": 1
+    },
+    {
+      "id": 1,
+      "video": "../videos/tractor.mp4",
+      "link": 2
+    },
+    {
+      "id": 2,
+      "video": "../videos/car.mp4",
+      "link": 0
+    },
+    {
+      "id": 3,
+      "video": "../videos/footbal1.mp4",
+      "link": 0
+    }
+  ],
+  
+    "comments": [
+      { "id": 1, "author": "Gebruiker1", "text": "Dit is een geweldige video!" },
+      { "id": 2, "author": "Gebruiker2", "text": "Bedankt voor het delen." }
+    ]
+  }
+  
